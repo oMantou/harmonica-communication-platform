@@ -1,0 +1,23 @@
+{
+  "tags": [
+    { "id": "folk", "name": "民谣", "category": "music" },
+    { "id": "classical", "name": "古典", "category": "music" },
+    { "id": "jazz", "name": "爵士", "category": "music" },
+    { "id": "blues", "name": "布鲁斯", "category": "music" },
+    { "id": "pop", "name": "流行", "category": "music" },
+    { "id": "rock", "name": "摇滚", "category": "music" },
+    { "id": "classical-harp", "name": "半音阶口琴", "category": "type" },
+    { "id": "diatonic", "name": "十孔口琴", "category": "type" },
+    { "id": "chord", "name": "和弦口琴", "category": "type" },
+    { "id": "bass", "name": "低音口琴", "category": "type" },
+    { "id": "beginner", "name": "入门", "category": "level" },
+    { "id": "intermediate", "name": "进阶", "category": "level" },
+    { "id": "advanced", "name": "高级", "category": "level" },
+    { "id": "portal", "name": "门户", "category": "resource" },
+    { "id": "tutorial", "name": "教程", "category": "resource" },
+    { "id": "sheet", "name": "曲谱", "category": "resource" },
+    { "id": "video", "name": "视频", "category": "resource" },
+    { "id": "tool", "name": "工具", "category": "resource" },
+    { "id": "community", "name": "社群", "category": "resource" }
+  ]
+}

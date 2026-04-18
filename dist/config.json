@@ -1,0 +1,13 @@
+{
+  "storage": {
+    "type": "local",
+    "basePath": "D:/_05Saves/~gitee/口琴综合交流平台/TaskList/data"
+  },
+  "api": {
+    "endpoint": "http://localhost:3001"
+  },
+  "dataMode": "static",
+  "contact": {
+    "email": "admin@example.com"
+  }
+}
