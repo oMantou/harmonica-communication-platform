@@ -7,7 +7,8 @@
     "endpoint": "http://localhost:3001"
   },
   "dataMode": "static",
+  "siteTitle": "穗小琴交流平台（试行版）",
   "contact": {
-    "email": "admin@example.com"
+    "email": ""
   }
 }
