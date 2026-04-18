@@ -1,31 +1,4 @@
 {
   "links": [
-    {
-      "id": "harmonica-cn",
-      "title": "口琴中国",
-      "subtitle": "口琴爱好者门户",
-      "description": "国内知名的口琴综合交流平台，提供曲谱、教程、视频等资源。",
-      "tags": ["门户", "教程", "曲谱"],
-      "url": "https://www.harmonica.com.cn",
-      "createdAt": "2024-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "bluesharp",
-      "title": "蓝调口琴网",
-      "subtitle": "布鲁斯口琴专门站",
-      "description": "专注于布鲁斯口琴教学与推广，提供系统的学习资源和社区交流。",
-      "tags": ["教程", "布鲁斯", "社区"],
-      "url": "https://www.bluesharp.com",
-      "createdAt": "2024-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "musicds",
-      "title": "音乐Ds",
-      "subtitle": "口琴曲谱分享",
-      "description": "分享各类口琴曲谱，包含简谱和五线谱，支持下载。",
-      "tags": ["曲谱", "下载"],
-      "url": "https://www.musicds.cn",
-      "createdAt": "2024-01-01T00:00:00.000Z"
-    }
   ]
 }
