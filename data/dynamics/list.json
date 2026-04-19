@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T08:36:15.457Z",
+  "lastUpdated": "2026-04-19T07:24:32.414Z",
   "clubsCount": 2,
   "totalDynamics": 36,
   "dynamics": [
@@ -8,7 +8,7 @@
       "uid": "601644353",
       "name": "青穗口琴社",
       "school": "广州大学",
-      "lastScrapedAt": "2026-04-18T08:35:55.632Z",
+      "lastScrapedAt": "2026-04-19T07:24:12.631Z",
       "count": 24
     },
     {
@@ -16,7 +16,7 @@
       "uid": "442023375",
       "name": "紫荆口琴社",
       "school": "华南农业大学",
-      "lastScrapedAt": "2026-04-18T08:36:12.456Z",
+      "lastScrapedAt": "2026-04-19T07:24:29.407Z",
       "count": 12
     }
   ]
