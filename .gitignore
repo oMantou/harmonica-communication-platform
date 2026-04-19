@@ -1,4 +1,2 @@
-# 本地运行脚本（不推送到远端）
 *.bat
 server.js
-admin.html
