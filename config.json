@@ -1,0 +1,87 @@
+{
+  "siteTitle": "穗小琴口琴交流平台（试行版）",
+  "contact": { "email": "" },
+  "texts": {
+    "nav": {
+      "dynamics": "动态广场",
+      "clubs": "高校专区",
+      "cityGroups": "城市专区",
+      "externalLinks": "外部导航"
+    },
+    "footer": {
+      "tagline": "帮助高校口琴爱好者寻找同好"
+    },
+    "clubs": {
+      "title": "高校口琴专区",
+      "searchPlaceholder": "搜索学校或社团名称...",
+      "backBtn": "← 返回列表",
+      "emptyState": "暂无社团数据",
+      "loadingState": "加载中...",
+      "prevPage": "上一页",
+      "nextPage": "下一页",
+      "founded": "创立时间:",
+      "description": "社团简介:",
+      "culture": "社团文化:",
+      "history": "历史沿革:",
+      "images": "图片:",
+      "wechatGroup": "微信群:",
+      "qqGroup": "QQ群:",
+      "email": "邮箱:",
+      "socialLinks": "自媒体平台:",
+      "bilibili": "B站",
+      "weibo": "微博",
+      "douyin": "抖音",
+      "website": "官网"
+    },
+    "cityGroups": {
+      "title": "城市口琴专区",
+      "description": "非官方地区口琴团体信息",
+      "searchPlaceholder": "搜索城市或团体名称...",
+      "backBtn": "← 返回列表",
+      "emptyState": "暂无团体数据",
+      "loadingState": "加载中...",
+      "prevPage": "上一页",
+      "nextPage": "下一页",
+      "founded": "创立时间:",
+      "description": "简介:",
+      "culture": "团体文化:",
+      "images": "图片:",
+      "wechatGroup": "微信群:",
+      "qqGroup": "QQ群:",
+      "email": "邮箱:",
+      "socialLinks": "自媒体平台:",
+      "bilibili": "B站",
+      "weibo": "微博",
+      "douyin": "抖音",
+      "website": "官网"
+    },
+    "externalLinks": {
+      "title": "外部导航",
+      "description": "口琴相关的优质资源网站与媒体平台",
+      "searchPlaceholder": "搜索关键词...",
+      "visitBtn": "访问 →",
+      "emptyState": "暂无导航数据",
+      "loadingState": "加载中...",
+      "prevPage": "上一页",
+      "nextPage": "下一页",
+      "tagAll": "全部"
+    },
+    "dynamics": {
+      "title": "动态广场",
+      "searchPlaceholder": "搜索动态内容或社团名称...",
+      "refreshBtn": "刷新",
+      "emptyState": "暂无动态数据",
+      "loadingState": "加载中...",
+      "videoTag": "视频",
+      "originalLink": "原文链接",
+      "videoLink": "视频链接"
+    },
+    "status": {
+      "all": "全部状态",
+      "active": "活跃",
+      "dormant": "休眠",
+      "rebuilding": "重建中",
+      "dissolved": "已解散"
+    }
+  }
+}
